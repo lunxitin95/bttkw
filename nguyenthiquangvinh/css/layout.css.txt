@@ -1,0 +1,47 @@
+#container{
+	width:880px;
+	min-height:400px;
+	background:#ff00ff;
+	margin:auto;
+	text-align:center;
+}
+ul li {
+
+	list-style-type:none;
+	display:inline-block;
+}
+#container ul li{
+	text-decoration:underline;
+	text-align:right;
+}
+nav{
+	min-height:40px;
+	background:#00ff00;
+	text-align:center;
+}
+#content{
+	min-height:300px;
+	background:#99ccff;
+	padding:20px 15px;
+}
+#recycle{
+	width:255px;
+	min-height:300px;
+	background:#6699cc;
+	float:left;
+	margin-right :20px;
+	text-align:center;
+}
+.com-pr{
+	width:260px;
+	min-height:300px;
+	background:#6699cc;
+	margin-right:20px;
+	float:left;
+	text-align:center;
+}
+footer{
+	min-height:50px;
+	background:#e20ee2;
+	text-align:center;
+}
